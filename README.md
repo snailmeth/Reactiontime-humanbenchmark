@@ -1,2 +1,2 @@
 # Reactiontime-humanbenchmark
-Human benchmark cheats for Aimtrainer
+Human benchmark cheats for Reactiontime
